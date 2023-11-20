@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../viikko2/poetry-web"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
